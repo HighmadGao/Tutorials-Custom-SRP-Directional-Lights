@@ -1,9 +1,3 @@
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
 此篇为翻译，[原文链接点此](https://catlikecoding.com/unity/tutorials/custom-srp/directional-lights/)
 
 #平行光&emsp;*<font size = 3>直接光照*
@@ -18,4 +12,5 @@ img{
 
 本篇教程基于Unity 2019.2.12f1。
 
-![alt tset](./media/tutorial-image.jpg "tset")
+<img src="./media/tutorial-image.jpg" style="zoom:50%;" />
+
