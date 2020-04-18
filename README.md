@@ -12,5 +12,5 @@
 
 本篇教程基于Unity 2019.2.12f1。
 
-<img src="./assets/tutorial-image.jpg" style="zoom:20%;" />
-
+<!-- <img src="./assets/tutorial-image.jpg" style="zoom:20%;" /> -->
+![](./assets/tutorial-image.jpg)
